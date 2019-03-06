@@ -1,0 +1,15 @@
+{
+  "name": "tensorflow.js",
+  "version": "1.0.0",
+  "description": "machine learning simple regression example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k3nnet",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.15.3",
+    "bootstrap": "^4.3.1"
+  }
+}
